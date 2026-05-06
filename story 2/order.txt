@@ -1,2 +1,2 @@
-part1.md
-part2.md
+part1
+part2
