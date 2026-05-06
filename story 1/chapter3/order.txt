@@ -1,2 +1,2 @@
-subChapter1.md
-subChapter2.md
+subChapter1
+subChapter2
