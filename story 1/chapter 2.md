@@ -8,3 +8,5 @@ This is chapter 2
 This is myy asssss
  
 Ola Amigos 
+
+This is _italics_ and **this is bold**.
